@@ -84,3 +84,15 @@ ai-news-generator/
 ├── requirements.txt
 └── README.md
 ```
+---
+##💡 To-Do / Ideas
+ GitHub Pages deployment for frontend
+
+ Add user input for custom topics
+
+ Add more visual effects (Ken Burns, zoom-in)
+
+ Implement multi-language voice options
+
+ Save logs and analytics
+ ---
