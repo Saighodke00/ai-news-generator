@@ -59,10 +59,12 @@ pip install -r requirements.txt
 python server.py
 ```
 ---
+
 🧑‍💻 Author
 Sai Narendra Ghodke
 📧 saighodke09@gmail.com
 🔗 GitHub
+
 ---
 
 ## 📂 Folder Structure
@@ -85,7 +87,8 @@ ai-news-generator/
 └── README.md
 ```
 ---
-##💡 To-Do / Ideas
+
+## 💡 To-Do / Ideas
  GitHub Pages deployment for frontend
 
  Add user input for custom topics
@@ -95,4 +98,5 @@ ai-news-generator/
  Implement multi-language voice options
 
  Save logs and analytics
+ 
  ---
