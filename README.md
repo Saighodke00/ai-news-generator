@@ -58,14 +58,6 @@ pip install -r requirements.txt
 # Run the server
 python server.py
 ```
----
-
-🧑‍💻 Author
-Sai Narendra Ghodke
-📧 saighodke09@gmail.com
-🔗 GitHub
-
----
 
 ## 📂 Folder Structure
 ```
@@ -100,3 +92,23 @@ ai-news-generator/
  Save logs and analytics
  
  ---
+
+---
+
+## 👥 Contributors
+
+| Name | Role | GitHub | Gmail |
+|------|------|--------|-------|
+| Sai Narendra Ghodke | Backend & Video Automation | [@Saighodke00](https://github.com/Saighodke00) | 
+saighodke09@gmail.com |
+| Aditay Salunkhe | Frontend UI & Design | [Messi0898](https://github.com/Messi0898) | 
+aditaysalunkhe2550@gamil.com |
+
+ 
+---
+
+📄 License
+This project is licensed under the MIT License
+
+---
+
