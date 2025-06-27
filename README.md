@@ -58,29 +58,12 @@ pip install -r requirements.txt
 # Run the server
 python server.py
 ```
-----
+---
 🧑‍💻 Author
 Sai Narendra Ghodke
 📧 saighodke09@gmail.com
 🔗 GitHub
-----
+---
 
 ## 📂 Folder Structure
-ai-news-generator/
-├── backend/
-│ ├── fetch_headlines.py
-│ ├── fetch_images.py
-│ ├── generate_audio.py
-│ ├── make_video.py
-│ └── server.py
-├── static/
-│ ├── final_video.mp4
-│ └── bg_music.mp3
-├── templates/
-│ ├── index.html
-│ ├── generate.html
-│ └── gallery.html
-├── requirements.txt
-└── README.md
-
-
+a<pre> ```text ai-news-generator/ ├── backend/ │ ├── fetch_headlines.py │ ├── fetch_images.py │ ├── generate_audio.py │ ├── make_video.py │ └── server.py ├── static/ │ ├── final_video.mp4 │ └── bg_music.mp3 ├── templates/ │ ├── index.html │ ├── generate.html │ └── gallery.html ├── requirements.txt └── README.md ``` </pre>
