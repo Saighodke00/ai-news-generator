@@ -64,7 +64,7 @@ Sai Narendra Ghodke
 📧 saighodke09@gmail.com
 🔗 GitHub
 
-----
+''''
 📦 ai-news-generator
 ├── backend/
 │   ├── fetch_headlines.py
@@ -81,5 +81,4 @@ Sai Narendra Ghodke
 │   └── gallery.html
 └── requirements.txt
 
-----
-
+''''
