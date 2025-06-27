@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 # Run the server
 python server.py
-
+```
 
 🧑‍💻 Author
 Sai Narendra Ghodke
