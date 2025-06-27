@@ -66,4 +66,21 @@ Sai Narendra Ghodke
 ---
 
 ## 📂 Folder Structure
-a<pre> ```text ai-news-generator/ ├── backend/ │ ├── fetch_headlines.py │ ├── fetch_images.py │ ├── generate_audio.py │ ├── make_video.py │ └── server.py ├── static/ │ ├── final_video.mp4 │ └── bg_music.mp3 ├── templates/ │ ├── index.html │ ├── generate.html │ └── gallery.html ├── requirements.txt └── README.md ``` </pre>
+```
+ai-news-generator/
+├── backend/
+│ ├── fetch_headlines.py
+│ ├── fetch_images.py
+│ ├── generate_audio.py
+│ ├── make_video.py
+│ └── server.py
+├── static/
+│ ├── final_video.mp4
+│ └── bg_music.mp3
+├── templates/
+│ ├── index.html
+│ ├── generate.html
+│ └── gallery.html
+├── requirements.txt
+└── README.md
+```
