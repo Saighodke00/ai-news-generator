@@ -99,10 +99,8 @@ ai-news-generator/
 
 | Name | Role | GitHub | Gmail |
 |------|------|--------|-------|
-| Sai Narendra Ghodke | Backend & Video Automation | [@Saighodke00](https://github.com/Saighodke00) | 
-saighodke09@gmail.com |
-| Aditay Salunkhe | Frontend UI & Design | [Messi0898](https://github.com/Messi0898) | 
-aditaysalunkhe2550@gamil.com |
+| Sai Narendra Ghodke | Backend & Video Automation | [@Saighodke00](https://github.com/Saighodke00) |saighodke09@gmail.com|
+| Aditay Salunkhe | Frontend UI & Design | [Messi0898](https://github.com/Messi0898) |aditaysalunkhe2550@gamil.com |
 
  
 ---
